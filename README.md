@@ -7,4 +7,6 @@ Logistic regression model is implemented using all the features and also using t
 
 For visualization and interactive dashboard the one hot encoded dataset was converted into categorical data and fed into tableau .
 
+![image](https://user-images.githubusercontent.com/89943799/184422371-cf877d4c-249a-48c8-9b2c-158c7d0f54a6.png)
+
 ![image](https://user-images.githubusercontent.com/89943799/184422246-16172e57-4245-4f92-909b-cb4f15b8b0f9.png)
