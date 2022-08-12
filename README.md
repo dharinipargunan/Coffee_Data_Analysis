@@ -6,3 +6,5 @@ For predicting the top predictors, methods such as correlation analysis, chi_squ
 Logistic regression model is implemented using all the features and also using the top 10 predictors and evaluated the test data. The classification report which consists of f1-score , accuracy, recall precision was printed.
 
 For visualization and interactive dashboard the one hot encoded dataset was converted into categorical data and fed into tableau .
+
+![image](https://user-images.githubusercontent.com/89943799/184422246-16172e57-4245-4f92-909b-cb4f15b8b0f9.png)
